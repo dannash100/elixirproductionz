@@ -9,6 +9,19 @@ function Work() {
           className="youtube"
           width="560"
           height="315"
+          src="https://www.youtube.com/embed/xjZDDzfWCy0"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
+      
+      <div>
+        <iframe
+          className="youtube"
+          width="560"
+          height="315"
           src="https://www.youtube.com/embed/0W_LyadZWh4"
           title="YouTube video player"
           frameborder="0"
@@ -16,6 +29,19 @@ function Work() {
           allowfullscreen
         ></iframe>
       </div>
+      <div>
+        <iframe
+          className="youtube"
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/wBI4k7nDEyg"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
+
       <div>
         <iframe
           className="youtube"
@@ -148,8 +174,6 @@ function Work() {
         ></iframe>
       </div>
       <div>
-
-
       <img className="small-logo" src='logo.png' width='320'/>
       </div>
       <div style={{paddingBottom: 100}}>
