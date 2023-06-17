@@ -9,6 +9,18 @@ function Work() {
           className="youtube"
           width="560"
           height="315"
+          src="https://www.youtube.com/embed/udUj5m9at28"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
+      <div>
+        <iframe
+          className="youtube"
+          width="560"
+          height="315"
           src="https://www.youtube.com/embed/xjZDDzfWCy0"
           title="YouTube video player"
           frameborder="0"
@@ -166,6 +178,28 @@ function Work() {
         <iframe
           className="youtube"
           src="https://player.vimeo.com/video/722774696?h=4c6c7ad529"
+          width="560"
+          height="315"
+          frameborder="0"
+          allow="autoplay; fullscreen; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
+          <div>
+        <iframe
+          className="youtube"
+          src="https://www.youtube.com/embed/Zxn1m6LHjrU"
+          width="560"
+          height="315"
+          frameborder="0"
+          allow="autoplay; fullscreen; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
+           <div>
+        <iframe
+          className="youtube"
+          src="https://www.youtube.com/embed/OB7r_zXnDNI"
           width="560"
           height="315"
           frameborder="0"
